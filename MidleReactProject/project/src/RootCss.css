@@ -1,0 +1,19 @@
+.RedStyle
+{
+  color: red;
+}
+
+.BlueStyle
+{
+  color: blue;
+}
+
+.VisibleStyle
+{
+  visibility: visible;
+}
+
+.HideStyle
+{
+  visibility: hidden;
+}

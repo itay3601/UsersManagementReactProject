@@ -1,0 +1,38 @@
+
+.RedStyle
+{
+  border-style: solid;
+  border-color: red;
+    padding:"10px";
+    width:"300px";
+    
+    
+    
+}
+
+.GreenStyle
+{
+  border-style: solid;
+  border-color: green;
+    padding:"10px";
+    width:"300px";
+   
+}
+.RedStyleAndBackground
+{
+  border-style: solid;
+  border-color: red;
+    padding:"10px";
+    width:"300px";
+    background-color:lightblue;
+    
+    
+}
+.GreenStyleBackground
+{
+  border-style: solid;
+  border-color: green;
+    padding:"10px";
+    width:"300px";
+    background-color: lightblue;
+}
